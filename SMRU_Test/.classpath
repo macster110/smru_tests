@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_40"/>
-	<classpathentry kind="lib" path="/play_buoy_hydrophones/src/jars/jcommon-1.0.23.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_121"/>
 	<classpathentry kind="lib" path="src/jars/fxyz.jar"/>
 	<classpathentry kind="lib" path="/Pamguard_SMRU/src/jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="src/jars/matfilerw-master-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Pamguard_UID/src/jars/fontawesomefx-commons-8.15.jar"/>
+	<classpathentry kind="lib" path="/Pamguard_UID/src/jars/fontawesomefx-controls-8.15.jar"/>
+	<classpathentry kind="lib" path="/Pamguard_UID/src/jars/fontawesomefx-fontawesome-4.7.0-5.jar"/>
+	<classpathentry kind="lib" path="/Pamguard_UID/src/jars/fontawesomefx-icons525-3.0.0-4.jar"/>
+	<classpathentry kind="lib" path="/Pamguard_UID/src/jars/fontawesomefx-materialdesignfont-1.7.22-4.jar"/>
+	<classpathentry kind="lib" path="/Pamguard_UID/src/jars/fontawesomefx-materialicons-2.2.0-5.jar"/>
+	<classpathentry kind="lib" path="/Pamguard_UID/src/jars/fontawesomefx-materialstackicons-2.1-5.jar"/>
+	<classpathentry kind="lib" path="/Pamguard_UID/src/jars/fontawesomefx-octicons-4.3.0-5.jar"/>
+	<classpathentry kind="lib" path="/Pamguard_UID/src/jars/fontawesomefx-weathericons-2.0.10-5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
